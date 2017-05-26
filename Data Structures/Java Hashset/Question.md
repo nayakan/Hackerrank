@@ -16,3 +16,19 @@ seperated by a single space.
 Output Format
 
 Print T lines. In the ith line, print number of unique pairs you have after taking ith pair as input.
+
+Sample Input
+
+5
+john tom
+john mary
+john tom
+mary anna
+mary anna
+Sample Output
+
+1
+2
+2
+3
+3
